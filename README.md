@@ -1,7 +1,7 @@
 # Playground-Cypress
 Automation using Cypress
 
-###Panduan
+### Panduan
 
 - Langkah-langkah untuk mengubungkan GitHub dengan Local drive :
     1. Buat repository baru di GitHub,
