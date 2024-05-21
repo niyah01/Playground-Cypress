@@ -53,7 +53,7 @@ Automation using Cypress
         - git status
     6. Setelah node modules tidak terbaca, maka :
         - git add .
-        - git commit -m "Add file .gitignore"
+        - git commit -m "Install cypress and Add file .gitignore"
         - git push
 
 - Open cypress via visual studio code :
@@ -87,3 +87,6 @@ Automation using Cypress
             - maka warnanya akan menjadi abu-abu
                 Note :
                 Alasannya kenapa di ignore? karena tidak perlu dipush di github changes kita. Karena 2 files itu buat bahan kita belajar ajah (sekedar di baca2 saja)
+    3. git add .
+    4. git commit -m "Update .gitignore file"
+    5. git push
