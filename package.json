@@ -1,0 +1,18 @@
+{
+  "name": "playground-cypress",
+  "version": "1.0.0",
+  "description": "Automation using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/niyah01/Playground-Cypress.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
